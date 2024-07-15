@@ -1,0 +1,39 @@
+.nav{
+    position: fixed;
+    height: 100px;
+     background-color:#0e2954;
+     border-bottom: 1px solid white;
+}
+*{
+    background-color: #0e2954;
+}
+.profile-pic img{
+    height: 55vh;
+}
+span{
+    color:dodgerblue;
+}
+.about-pic img{
+    height: 55vh;
+}
+.color1{
+    background-color: #77E4C8;
+}
+.color2{
+    background-color: #36C2CE;
+}
+.color3{
+    background-color: #219ebc;
+}
+.hover-shadow:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+.color2{
+    color: #fff;
+}
+.color2:hover{
+    color:darkblue; /* Darker shade for hover effect */
+}
+.effect :hover{
+    color:yellow;
+}
